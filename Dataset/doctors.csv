@@ -1,0 +1,51 @@
+doctor_id,first_name,last_name,gender,department_id,specialization,experience_years,phone,email,joining_date
+1,Yutika,Khanna,Male,7,Dermatologist,13,3521253090,gayathri86@example.com,2022-05-10
+2,Advika,Subramanian,Female,5,Dermatologist,32,+914127282847,ratwal@example.net,2010-05-02
+3,Bhavini,Sodhi,Male,2,Dermatologist,28,2789836203,januja41@example.com,2013-07-15
+4,Gayathri,Vig,Male,9,Dermatologist,21,06322835784,fkhanna@example.net,2008-12-06
+5,Falak,Prasad,Male,5,Oncologist,5,+915053752376,watika74@example.net,2023-05-13
+6,Zarna,Seshadri,Female,4,Cardiologist,33,7433705303,kotharinidhi@example.org,2016-04-09
+7,Krishna,Srivastava,Male,9,Neurologist,19,0159792565,rajatarandhawa@example.net,2025-11-06
+8,Aarini,Modi,Female,4,Cardiologist,31,+915698505034,elijah12@example.org,2025-05-21
+9,Chandran,Sule,Female,1,Oncologist,15,+911784703390,raooviya@example.net,2008-03-24
+10,Jalsa,Soman,Female,11,Radiologist,6,+910097747250,bhavsarlopa@example.org,2010-08-03
+11,Nilima,Dara,Female,4,Oncologist,24,+913230741177,rbava@example.com,2026-04-03
+12,Nimrat,Lata,Female,7,Pediatrician,30,+919494150588,fariqkhosla@example.net,2011-12-06
+13,Vasudha,Manda,Female,4,Gynecologist,31,01240021000,dixitneel@example.net,2023-02-27
+14,Krishna,Hegde,Female,7,Oncologist,7,00820572286,mangalarunima@example.net,2016-12-11
+15,Widisha,Basu,Female,8,Gynecologist,32,+913379957123,pratyush95@example.net,2009-12-26
+16,Chakradhar,Taneja,Female,11,Radiologist,25,7925088014,daniel56@example.com,2019-04-22
+17,Aarush,Ravi,Male,10,General Physician,15,7086525344,udarshnayak@example.com,2017-10-24
+18,Unni,Chand,Male,6,Radiologist,21,09164454393,tbhandari@example.org,2021-07-02
+19,Zaitra,Hari,Female,9,ENT Specialist,22,+910362401229,kalachaitaly@example.org,2011-11-08
+20,Aarav,Prasad,Female,2,ENT Specialist,23,08200634904,ebrar@example.com,2010-10-01
+21,Hitesh,Master,Male,4,Gynecologist,18,05265924600,xiyer@example.org,2006-11-14
+22,Widisha,Parsa,Female,1,ENT Specialist,13,5790229095,valarajeshri@example.org,2008-10-31
+23,Krisha,Saha,Female,2,Pediatrician,22,5025654895,kantvedant@example.com,2017-10-05
+24,Aryan,Bhatia,Male,5,Radiologist,32,02973793351,tmander@example.net,2022-01-04
+25,Watika,Magar,Female,10,Gynecologist,4,+911904183849,vdugal@example.com,2013-11-09
+26,Saksham,Mahal,Female,2,Cardiologist,31,2851483544,wdeo@example.org,2010-04-17
+27,Yashasvi,Boase,Male,12,Radiologist,23,+914540690886,mukherjeenitesh@example.com,2011-10-28
+28,Zaid,Bail,Female,12,Radiologist,21,08621382741,rudra88@example.org,2014-11-13
+29,Girindra,Rattan,Female,8,Dermatologist,5,8930537646,samarthbadal@example.net,2026-06-29
+30,Triya,Jha,Male,5,General Physician,4,+919348488646,farhan20@example.org,2023-04-29
+31,Abhimanyu,Mahajan,Female,10,Cardiologist,10,1591713551,krishnamurthymadhavi@example.org,2019-02-19
+32,Hemal,Mitra,Male,11,General Physician,13,+913058536833,urvi26@example.org,2019-04-04
+33,Damyanti,Balakrishnan,Female,10,Pediatrician,8,4249452045,wriddhishramesh@example.org,2013-09-07
+34,Caleb,Lad,Female,2,Pediatrician,18,+916348723748,tarakom@example.net,2007-05-09
+35,Ishaan,Prabhakar,Female,12,Cardiologist,8,+910324888794,oakvihaan@example.org,2018-12-23
+36,Yauvani,Sarraf,Male,3,Cardiologist,30,05307967667,sawhneyjairaj@example.com,2025-08-19
+37,Anya,Boase,Female,7,ENT Specialist,26,01548536921,dhruv54@example.org,2023-11-11
+38,Eesha,Nigam,Female,8,Cardiologist,35,+911561898310,shanirja@example.com,2011-11-07
+39,Tanveer,Ravi,Female,5,Neurologist,18,3912934650,balhaarshere@example.org,2020-09-06
+40,Rehaan,Ramesh,Female,8,Radiologist,30,+913198061337,hemanginikrishnamurthy@example.com,2022-04-11
+41,Finn,Sastry,Female,2,Radiologist,29,+914054833413,parth10@example.org,2018-02-04
+42,Bhanumati,Chakrabarti,Female,9,ENT Specialist,18,1424344811,mugdha73@example.com,2018-12-20
+43,Hema,Gera,Male,4,General Physician,25,+915815772485,anthonydhaliwal@example.org,2010-05-17
+44,Yasti,Soni,Female,1,Pediatrician,4,+915667417474,bahrikritika@example.net,2019-09-21
+45,Aarini,Parikh,Female,2,Pediatrician,7,+915265957270,agastya23@example.net,2019-11-11
+46,Vasatika,Dash,Male,2,ENT Specialist,10,6310361758,edhaliwal@example.org,2011-06-28
+47,Nicholas,Vaidya,Female,2,Radiologist,35,2376913621,avni05@example.net,2011-01-06
+48,Yashica,Salvi,Male,4,Oncologist,19,+910911863743,sachiprabhakar@example.org,2013-08-24
+49,Nitesh,Aurora,Male,2,Dermatologist,3,05404872681,jagdishmanda@example.net,2008-03-25
+50,Nathaniel,Mitra,Male,3,Cardiologist,25,08879680087,tanne@example.com,2026-01-13

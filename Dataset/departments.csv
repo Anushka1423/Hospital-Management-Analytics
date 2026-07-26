@@ -1,0 +1,13 @@
+department_id,department_name,department_location,contact_number,head_of_department
+1,Cardiology,Block A,07805303593,Vihaan Ghosh
+2,Neurology,Block B,+917310615434,Wishi Bandi
+3,Orthopedics,Block C,+917762284134,Kashish Nazareth
+4,Pediatrics,Block D,+914480260014,Fitan Bir
+5,Dermatology,Block E,2298745190,Yachana Sur
+6,Oncology,Block F,01624491048,Sara Sehgal
+7,Gynecology,Block G,1064369831,Daksh Puri
+8,ENT,Block H,8821838444,Dalbir Padmanabhan
+9,Radiology,Block I,00767044332,Atharv Kakar
+10,Emergency,Ground Floor,+915907135309,Zarna Patla
+11,General Medicine,First Floor,3987794074,Jeremiah Sankar
+12,Psychiatry,Second Floor,05090665350,Rachana Chad

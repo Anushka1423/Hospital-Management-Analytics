@@ -1,0 +1,301 @@
+bed_id,ward_name,room_number,bed_type,availability_status
+1,Emergency,311,General,Available
+2,Pediatric Ward,365,General,Available
+3,Maternity Ward,472,ICU,Occupied
+4,Pediatric Ward,196,Semi-Private,Occupied
+5,Pediatric Ward,322,General,Available
+6,Emergency,294,General,Available
+7,General Ward,438,General,Occupied
+8,Maternity Ward,315,General,Available
+9,Maternity Ward,447,ICU,Occupied
+10,General Ward,162,General,Available
+11,Pediatric Ward,128,Semi-Private,Available
+12,General Ward,207,ICU,Occupied
+13,ICU,333,Private,Occupied
+14,General Ward,394,General,Occupied
+15,General Ward,275,General,Occupied
+16,Emergency,203,Semi-Private,Available
+17,Emergency,217,Private,Occupied
+18,Maternity Ward,292,General,Available
+19,Maternity Ward,118,Private,Occupied
+20,ICU,350,ICU,Available
+21,ICU,409,Semi-Private,Occupied
+22,Emergency,166,Semi-Private,Available
+23,ICU,164,Semi-Private,Available
+24,Emergency,103,ICU,Occupied
+25,Pediatric Ward,239,Semi-Private,Available
+26,Pediatric Ward,498,Semi-Private,Occupied
+27,Pediatric Ward,219,Semi-Private,Occupied
+28,General Ward,153,Semi-Private,Available
+29,Maternity Ward,322,Semi-Private,Available
+30,Emergency,475,Private,Available
+31,General Ward,288,ICU,Available
+32,ICU,278,Private,Available
+33,Pediatric Ward,443,ICU,Available
+34,ICU,315,ICU,Available
+35,Pediatric Ward,384,ICU,Available
+36,Pediatric Ward,400,General,Occupied
+37,Maternity Ward,343,General,Occupied
+38,Maternity Ward,328,Semi-Private,Available
+39,ICU,168,ICU,Occupied
+40,Pediatric Ward,314,ICU,Available
+41,ICU,357,General,Available
+42,ICU,469,Semi-Private,Occupied
+43,General Ward,252,Private,Available
+44,Emergency,102,ICU,Occupied
+45,Emergency,483,Semi-Private,Available
+46,Pediatric Ward,109,Semi-Private,Available
+47,General Ward,265,Semi-Private,Available
+48,Emergency,302,Semi-Private,Occupied
+49,Emergency,296,Semi-Private,Available
+50,ICU,103,Private,Occupied
+51,General Ward,402,Private,Occupied
+52,ICU,490,Semi-Private,Occupied
+53,General Ward,494,Semi-Private,Available
+54,ICU,191,Private,Occupied
+55,ICU,417,Semi-Private,Occupied
+56,Pediatric Ward,470,Private,Occupied
+57,ICU,146,Semi-Private,Occupied
+58,Maternity Ward,433,Private,Occupied
+59,Maternity Ward,265,Semi-Private,Occupied
+60,ICU,393,ICU,Occupied
+61,Pediatric Ward,342,General,Available
+62,Maternity Ward,136,ICU,Occupied
+63,Maternity Ward,479,ICU,Occupied
+64,Maternity Ward,487,General,Occupied
+65,ICU,478,Private,Occupied
+66,Maternity Ward,421,ICU,Occupied
+67,Maternity Ward,238,ICU,Available
+68,Emergency,406,General,Occupied
+69,Emergency,121,ICU,Occupied
+70,Emergency,243,Private,Occupied
+71,ICU,197,General,Occupied
+72,Pediatric Ward,158,Private,Available
+73,Maternity Ward,279,General,Occupied
+74,Maternity Ward,415,ICU,Occupied
+75,Maternity Ward,184,Semi-Private,Available
+76,Maternity Ward,349,General,Available
+77,ICU,303,General,Occupied
+78,General Ward,289,Semi-Private,Available
+79,General Ward,253,General,Occupied
+80,General Ward,449,Private,Available
+81,ICU,432,ICU,Available
+82,General Ward,468,Semi-Private,Available
+83,ICU,199,Semi-Private,Occupied
+84,General Ward,195,Semi-Private,Available
+85,General Ward,110,ICU,Available
+86,General Ward,211,ICU,Occupied
+87,ICU,239,General,Available
+88,ICU,484,Private,Available
+89,Pediatric Ward,178,Semi-Private,Occupied
+90,ICU,280,Private,Available
+91,Pediatric Ward,474,General,Available
+92,Maternity Ward,494,Private,Occupied
+93,Pediatric Ward,107,Private,Occupied
+94,Pediatric Ward,451,Semi-Private,Available
+95,Pediatric Ward,451,Semi-Private,Available
+96,ICU,489,ICU,Occupied
+97,Pediatric Ward,470,ICU,Occupied
+98,ICU,110,ICU,Occupied
+99,Pediatric Ward,428,Private,Available
+100,Maternity Ward,205,Private,Occupied
+101,General Ward,196,General,Available
+102,Pediatric Ward,442,Private,Occupied
+103,Maternity Ward,448,ICU,Occupied
+104,General Ward,379,Private,Occupied
+105,Pediatric Ward,239,Private,Occupied
+106,Maternity Ward,252,Semi-Private,Available
+107,ICU,225,Semi-Private,Available
+108,General Ward,258,Semi-Private,Available
+109,Emergency,385,Semi-Private,Occupied
+110,Emergency,338,General,Occupied
+111,Maternity Ward,203,ICU,Occupied
+112,Emergency,241,Semi-Private,Occupied
+113,Emergency,142,Private,Available
+114,Emergency,345,Private,Occupied
+115,Maternity Ward,232,General,Available
+116,ICU,405,Private,Occupied
+117,ICU,400,ICU,Occupied
+118,General Ward,160,Private,Available
+119,ICU,181,General,Available
+120,ICU,441,ICU,Occupied
+121,Emergency,289,General,Available
+122,Maternity Ward,328,ICU,Occupied
+123,Emergency,147,General,Occupied
+124,Maternity Ward,116,Private,Occupied
+125,Maternity Ward,383,Private,Available
+126,General Ward,233,Private,Occupied
+127,Maternity Ward,282,Private,Available
+128,General Ward,342,Private,Occupied
+129,General Ward,283,General,Occupied
+130,Emergency,328,Semi-Private,Occupied
+131,Emergency,477,General,Occupied
+132,Maternity Ward,222,Semi-Private,Available
+133,Maternity Ward,441,ICU,Occupied
+134,ICU,201,Private,Available
+135,Pediatric Ward,396,Semi-Private,Occupied
+136,Maternity Ward,122,ICU,Occupied
+137,General Ward,480,Private,Occupied
+138,General Ward,352,Private,Available
+139,ICU,394,Private,Occupied
+140,General Ward,467,General,Occupied
+141,ICU,343,ICU,Available
+142,Pediatric Ward,105,ICU,Available
+143,Pediatric Ward,257,Private,Available
+144,Maternity Ward,123,Private,Occupied
+145,Maternity Ward,334,ICU,Occupied
+146,Maternity Ward,328,Private,Available
+147,Emergency,244,Semi-Private,Available
+148,ICU,134,ICU,Available
+149,Pediatric Ward,113,Semi-Private,Available
+150,Maternity Ward,325,Private,Occupied
+151,Maternity Ward,257,ICU,Available
+152,ICU,203,General,Available
+153,General Ward,215,Private,Available
+154,Emergency,149,Private,Occupied
+155,General Ward,337,ICU,Available
+156,Emergency,350,ICU,Available
+157,Emergency,113,General,Occupied
+158,Pediatric Ward,386,Semi-Private,Available
+159,Emergency,415,General,Available
+160,General Ward,191,ICU,Available
+161,Emergency,430,Semi-Private,Occupied
+162,ICU,288,General,Occupied
+163,Maternity Ward,241,Private,Available
+164,Pediatric Ward,146,Semi-Private,Occupied
+165,Pediatric Ward,163,ICU,Occupied
+166,Emergency,385,General,Available
+167,Pediatric Ward,158,ICU,Occupied
+168,ICU,458,General,Available
+169,General Ward,307,ICU,Occupied
+170,Maternity Ward,388,ICU,Available
+171,ICU,237,Semi-Private,Available
+172,Pediatric Ward,268,ICU,Occupied
+173,Pediatric Ward,343,Private,Occupied
+174,ICU,111,Private,Available
+175,General Ward,220,Semi-Private,Occupied
+176,ICU,334,General,Occupied
+177,Maternity Ward,353,ICU,Occupied
+178,Pediatric Ward,345,ICU,Occupied
+179,Emergency,414,ICU,Available
+180,Maternity Ward,220,General,Available
+181,General Ward,493,Private,Available
+182,General Ward,441,Private,Available
+183,Pediatric Ward,243,General,Occupied
+184,Maternity Ward,398,General,Available
+185,Maternity Ward,239,ICU,Available
+186,Pediatric Ward,455,ICU,Available
+187,Maternity Ward,338,General,Occupied
+188,General Ward,317,ICU,Available
+189,Emergency,109,ICU,Occupied
+190,General Ward,385,Private,Occupied
+191,General Ward,287,ICU,Occupied
+192,General Ward,140,Private,Occupied
+193,Pediatric Ward,367,Private,Occupied
+194,Pediatric Ward,372,General,Available
+195,General Ward,278,General,Occupied
+196,ICU,196,General,Occupied
+197,ICU,474,Private,Available
+198,Pediatric Ward,230,ICU,Occupied
+199,Maternity Ward,153,ICU,Occupied
+200,General Ward,228,Private,Occupied
+201,ICU,384,Semi-Private,Available
+202,Emergency,388,Private,Occupied
+203,Maternity Ward,437,General,Occupied
+204,General Ward,171,Private,Available
+205,Emergency,485,General,Available
+206,Emergency,162,General,Available
+207,ICU,268,Semi-Private,Occupied
+208,ICU,482,Semi-Private,Occupied
+209,Emergency,374,General,Available
+210,Pediatric Ward,194,Private,Available
+211,General Ward,252,Semi-Private,Occupied
+212,General Ward,311,Private,Occupied
+213,Emergency,289,Semi-Private,Occupied
+214,Emergency,102,ICU,Occupied
+215,ICU,324,General,Occupied
+216,ICU,364,General,Occupied
+217,Emergency,294,Private,Available
+218,ICU,419,General,Available
+219,ICU,379,General,Available
+220,Maternity Ward,356,Semi-Private,Occupied
+221,Emergency,331,Semi-Private,Available
+222,Maternity Ward,206,ICU,Occupied
+223,ICU,329,Semi-Private,Available
+224,ICU,326,Semi-Private,Available
+225,ICU,333,Semi-Private,Available
+226,Emergency,459,Private,Occupied
+227,ICU,269,ICU,Occupied
+228,General Ward,388,Private,Occupied
+229,Maternity Ward,104,ICU,Occupied
+230,General Ward,472,Semi-Private,Available
+231,Maternity Ward,383,General,Occupied
+232,ICU,395,Private,Occupied
+233,General Ward,326,Semi-Private,Occupied
+234,Maternity Ward,199,Semi-Private,Available
+235,ICU,424,ICU,Occupied
+236,Emergency,412,Semi-Private,Occupied
+237,ICU,484,Private,Available
+238,Emergency,252,ICU,Available
+239,Maternity Ward,324,General,Available
+240,Pediatric Ward,325,Semi-Private,Occupied
+241,ICU,499,Semi-Private,Occupied
+242,ICU,258,Private,Available
+243,Pediatric Ward,462,ICU,Available
+244,Pediatric Ward,346,General,Occupied
+245,Emergency,172,Private,Occupied
+246,ICU,279,Private,Occupied
+247,Emergency,304,ICU,Available
+248,Emergency,125,ICU,Available
+249,Maternity Ward,206,ICU,Occupied
+250,General Ward,221,General,Available
+251,Pediatric Ward,473,Semi-Private,Occupied
+252,Maternity Ward,335,General,Available
+253,Maternity Ward,462,Private,Occupied
+254,Emergency,366,ICU,Occupied
+255,Emergency,485,Private,Available
+256,General Ward,500,Semi-Private,Occupied
+257,Pediatric Ward,116,General,Available
+258,ICU,329,Private,Available
+259,Emergency,352,ICU,Available
+260,General Ward,373,Semi-Private,Occupied
+261,General Ward,200,General,Occupied
+262,General Ward,307,ICU,Occupied
+263,General Ward,276,Semi-Private,Occupied
+264,ICU,147,Semi-Private,Occupied
+265,Emergency,363,ICU,Occupied
+266,Maternity Ward,161,Private,Occupied
+267,Maternity Ward,131,General,Available
+268,General Ward,134,General,Available
+269,ICU,207,General,Occupied
+270,Maternity Ward,216,Private,Occupied
+271,ICU,154,Semi-Private,Available
+272,ICU,376,Semi-Private,Available
+273,Pediatric Ward,129,Private,Occupied
+274,Pediatric Ward,484,Semi-Private,Available
+275,ICU,343,General,Available
+276,Maternity Ward,392,General,Occupied
+277,Maternity Ward,371,Semi-Private,Occupied
+278,Emergency,432,General,Occupied
+279,Pediatric Ward,357,General,Occupied
+280,Pediatric Ward,186,ICU,Occupied
+281,ICU,398,Private,Occupied
+282,Pediatric Ward,312,Semi-Private,Occupied
+283,ICU,122,ICU,Available
+284,Pediatric Ward,206,Private,Occupied
+285,Maternity Ward,188,Private,Occupied
+286,ICU,183,Semi-Private,Occupied
+287,Emergency,361,Semi-Private,Occupied
+288,ICU,267,Private,Occupied
+289,Maternity Ward,304,Private,Occupied
+290,Pediatric Ward,355,General,Occupied
+291,Emergency,158,General,Available
+292,Maternity Ward,229,Private,Available
+293,General Ward,388,ICU,Occupied
+294,General Ward,213,General,Available
+295,Maternity Ward,446,Private,Occupied
+296,ICU,490,Private,Available
+297,Maternity Ward,463,ICU,Occupied
+298,General Ward,228,Semi-Private,Occupied
+299,Maternity Ward,261,ICU,Available
+300,Maternity Ward,286,Private,Occupied
