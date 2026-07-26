@@ -73,11 +73,11 @@ Hospital-Management-Analytics
 
 ### Dashboard Page 1
 
-![Hospital Dashboard Page 1](Dashboard%20Images/dashboard.png)
+![Hospital Dashboard Page 1](Dashbard%20Images/Dashboard.png)
 
 ### Dashboard Page 2
 
-![Hospital Dashboard Page 2](Dashboard%20Images/dashboard2.png)
+![Hospital Dashboard Page 2](Dashbard%20Images/Dashboard2.png)
 
 ## 🚀 Key Insights
 
