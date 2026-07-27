@@ -5,6 +5,12 @@
 This project is an end-to-end Hospital Management Analytics solution built using **MySQL** and **Power BI**. It demonstrates SQL querying, data analysis, dashboard creation, and business insights from hospital data.
 
 ---
+## 🎥 Project Demo
+
+Watch the complete Hospital Management Analytics demonstration here:
+
+▶️ **Demo Video:**  
+https://1drv.ms/v/c/9289b2cce31b3327/IQCRdyUQIQikR6HbM8uvTAQ9AT2Yw_EQ39YOEiExhYOcuMw?e=5XpvKt
 
 ## 🛠️ Tools & Technologies
 
