@@ -8,9 +8,7 @@ This project is an end-to-end Hospital Management Analytics solution built using
 ## 🎥 Project Demo
 
 Watch the complete Hospital Management Analytics demonstration here:
-
-▶️ **Demo Video:**  
-https://1drv.ms/v/c/9289b2cce31b3327/IQCRdyUQIQikR6HbM8uvTAQ9AT2Yw_EQ39YOEiExhYOcuMw?e=5XpvKt
+▶️ **[Watch Demo Video](https://1drv.ms/v/c/9289b2cce31b3327/IQA_Q52-c_HAT7K4PSj5z8zJAe03OYSxnsklFbJCLYC1JRo?e=gjc0ei)**
 
 ## 🛠️ Tools & Technologies
 
